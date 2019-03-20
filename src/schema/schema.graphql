@@ -1,0 +1,15 @@
+type house {
+    SerialNumber : Number #will act as the ID#
+    Name : String #I want the database to be able to include names as well
+    Address : String #Main goal is to query the URLs and get an address back
+    BodyNotes : String #Create a spot for notes to be written
+    PostCard : Boolean #I want to know if the mailer has been sent or not
+}
+
+type mutation {
+    editEntry(
+        BodyNotes : String
+        )
+    deleteQuery(id: SerialNumber!): Number
+    markPostCardSent(id: SerialNumber!): Boolean
+}

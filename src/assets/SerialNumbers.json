@@ -1,550 +1,2658 @@
-{ "SerialNumber":"10040014" }
-{ "SerialNumber":"10040016" }
-{ "SerialNumber":"10040021" }
-{ "SerialNumber":"10120017" }
-{ "SerialNumber":"10170004" }
-{ "SerialNumber":"10220001" }
-{ "SerialNumber":"10220002" }
-{ "SerialNumber":"10220007" }
-{ "SerialNumber":"10230001" }
-{ "SerialNumber":"10230005" }
-{ "SerialNumber":"10260005" }
-{ "SerialNumber":"10260010" }
-{ "SerialNumber":"10260013" }
-{ "SerialNumber":"10300011" }
-{ "SerialNumber":"10350015" }
-{ "SerialNumber":"10350016" }
-{ "SerialNumber":"10360001" }
-{ "SerialNumber":"10360009" }
-{ "SerialNumber":"10360018" }
-{ "SerialNumber":"10380011" }
-{ "SerialNumber":"10480001" }
-{ "SerialNumber":"10610007" }
-{ "SerialNumber":"10650007" }
-{ "SerialNumber":"10670027" }
-{ "SerialNumber":"10670048" }
-{ "SerialNumber":"10670067" }
-{ "SerialNumber":"10670079" }
-{ "SerialNumber":"10670095" }
-{ "SerialNumber":"10670104" }
-{ "SerialNumber":"10680018" }
-{ "SerialNumber":"10690068" }
-{ "SerialNumber":"10690164" }
-{ "SerialNumber":"10690166" }
-{ "SerialNumber":"10700012" }
-{ "SerialNumber":"10720002" }
-{ "SerialNumber":"10730012" }
-{ "SerialNumber":"10770001" }
-{ "SerialNumber":"10860020" }
-{ "SerialNumber":"10900031" }
-{ "SerialNumber":"10900061" }
-{ "SerialNumber":"10900074" }
-{ "SerialNumber":"10900091" }
-{ "SerialNumber":"20020024" }
-{ "SerialNumber":"20020059" }
-{ "SerialNumber":"20030020" }
-{ "SerialNumber":"20040001" }
-{ "SerialNumber":"20070006" }
-{ "SerialNumber":"201200"06" }
+{ "House":{
+    "SerialNumber":"1004001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10040016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10040021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10120017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10170004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10220001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10220002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10220007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10230001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10230005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10260005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10260010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10260013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10300011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10350015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10350016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10360001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10360009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10360018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10380011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10480001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10610007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10650007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10670027",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10670048",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10670067",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10670079",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10670095",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10670104",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10680018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10690068",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10690164",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10690166",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10700012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10720002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10730012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10770001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10860020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10900031",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10900061",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10900074",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"10900091",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20020024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20020059",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20030020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20040001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20070006",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"201200"06",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"20120007" }
-{ "SerialNumber":"20120008" }
-{ "SerialNumber":"20120032" }
-{ "SerialNumber":"20140042" }
-{ "SerialNumber":"20140076" }
-{ "SerialNumber":"20140080" }
-{ "SerialNumber":"20150026" }
-{ "SerialNumber":"20160026" }
-{ "SerialNumber":"20190008" }
-{ "SerialNumber":"20190041" }
-{ "SerialNumber":"20190045" }
-{ "SerialNumber":"20200032" }
-{ "SerialNumber":"20240031" }
-{ "SerialNumber":"20240039" }
-{ "SerialNumber":"20250013" }
-{ "SerialNumber":"20250036" }
-{ "SerialNumber":"20260002" }
-{ "SerialNumber":"20270004" }
-{ "SerialNumber":"20280015" }
-{ "SerialNumber":"20290011" }
-{ "SerialNumber":"20290027" }
-{ "SerialNumber":"20310021" }
-{ "SerialNumber":"20310022" }
-{ "SerialNumber":"20320002" }
-{ "SerialNumber":"20320011" }
-{ "SerialNumber":"20320013" }
-{ "SerialNumber":"20320021" }
-{ "SerialNumber":"20320024" }
-{ "SerialNumber":"20320036" }
-{ "SerialNumber":"20320051" }
-{ "SerialNumber":"20320053" }
-{ "SerialNumber":"20330005" }
-{ "SerialNumber":"20330029" }
-{ "SerialNumber":"20340002" }
-{ "SerialNumber":"20340005" }
-{ "SerialNumber":"20340006" }
-{ "SerialNumber":"20350018" }
-{ "SerialNumber":"20360004" }
-{ "SerialNumber":"20360022" }
-{ "SerialNumber":"20370043" }
-{ "SerialNumber":"20380025" }
-{ "SerialNumber":"20380052" }
-{ "SerialNumber":"20390046" }
-{ "SerialNumber":"20390055" }
-{ "SerialNumber":"20390067" }
-{ "SerialNumber":"20390077" }
-{ "SerialNumber":"20410002" }
-{ "SerialNumber":"204100"03" }
+{ "House":{
+    "SerialNumber":"20120007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20120008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20120032",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20140042",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20140076",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20140080",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20150026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20160026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20190008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20190041",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20190045",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20200032",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20240031",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20240039",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20250013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20250036",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20260002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20270004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20280015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20290011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20290027",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20310021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20310022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320036",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320051",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20320053",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20330005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20330029",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20340002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20340005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20340006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20350018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20360004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20360022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20370043",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20380025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20380052",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20390046",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20390055",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20390067",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20390077",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20410002",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"204100"03",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"20430009" }
-{ "SerialNumber":"20440006" }
-{ "SerialNumber":"20440014" }
-{ "SerialNumber":"20450012" }
-{ "SerialNumber":"20450037" }
-{ "SerialNumber":"20460031" }
-{ "SerialNumber":"20470002" }
-{ "SerialNumber":"20480001" }
-{ "SerialNumber":"20480010" }
-{ "SerialNumber":"20490009" }
-{ "SerialNumber":"20490019" }
-{ "SerialNumber":"20520029" }
-{ "SerialNumber":"20550004" }
-{ "SerialNumber":"20550009" }
-{ "SerialNumber":"20550027" }
-{ "SerialNumber":"20560032" }
-{ "SerialNumber":"20560042" }
-{ "SerialNumber":"20560052" }
-{ "SerialNumber":"20610013" }
-{ "SerialNumber":"20670012" }
-{ "SerialNumber":"20670018" }
-{ "SerialNumber":"20670024" }
-{ "SerialNumber":"20670025" }
-{ "SerialNumber":"20700004" }
-{ "SerialNumber":"30020011" }
-{ "SerialNumber":"30030019" }
-{ "SerialNumber":"30040034" }
-{ "SerialNumber":"30040042" }
-{ "SerialNumber":"30050141" }
-{ "SerialNumber":"30070007" }
-{ "SerialNumber":"30070016" }
-{ "SerialNumber":"30100020" }
-{ "SerialNumber":"30110003" }
-{ "SerialNumber":"30110011" }
-{ "SerialNumber":"30130028" }
-{ "SerialNumber":"30150023" }
-{ "SerialNumber":"30170025" }
-{ "SerialNumber":"30170028" }
-{ "SerialNumber":"30180005" }
-{ "SerialNumber":"30200002" }
-{ "SerialNumber":"30230008" }
-{ "SerialNumber":"30230012" }
-{ "SerialNumber":"30240016" }
-{ "SerialNumber":"30250026" }
-{ "SerialNumber":"30300015" }
-{ "SerialNumber":"30320002" }
-{ "SerialNumber":"30330026" }
-{ "SerialNumber":"303500"06" }
+{ "House":{
+    "SerialNumber":"20430009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20440006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20440014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20450012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20450037",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20460031",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20470002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20480001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20480010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20490009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20490019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20520029",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20550004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20550009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20550027",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20560032",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20560042",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20560052",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20610013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20670012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20670018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20670024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20670025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"20700004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30020011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30030019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30040034",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30040042",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30050141",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30070007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30070016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30100020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30110003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30110011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30130028",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30150023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30170025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30170028",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30180005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30200002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30230008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30230012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30240016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30250026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30300015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30320002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30330026",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"303500"06",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"30390021" }
-{ "SerialNumber":"30390030" }
-{ "SerialNumber":"30390047" }
-{ "SerialNumber":"30400019" }
-{ "SerialNumber":"30410022" }
-{ "SerialNumber":"30430006" }
-{ "SerialNumber":"30460011" }
-{ "SerialNumber":"30460026" }
-{ "SerialNumber":"30480002" }
-{ "SerialNumber":"30490003" }
-{ "SerialNumber":"30500002" }
-{ "SerialNumber":"30500011" }
-{ "SerialNumber":"30530008" }
-{ "SerialNumber":"30530009" }
-{ "SerialNumber":"30540022" }
-{ "SerialNumber":"30550026" }
-{ "SerialNumber":"30570026" }
-{ "SerialNumber":"30660005" }
-{ "SerialNumber":"30700026" }
-{ "SerialNumber":"30710009" }
-{ "SerialNumber":"30770020" }
-{ "SerialNumber":"30770035" }
-{ "SerialNumber":"40010001" }
-{ "SerialNumber":"40020005" }
-{ "SerialNumber":"40060001" }
-{ "SerialNumber":"40081000" }
-{ "SerialNumber":"40140012" }
-{ "SerialNumber":"40160001" }
-{ "SerialNumber":"40200004" }
-{ "SerialNumber":"40200017" }
-{ "SerialNumber":"40200019" }
-{ "SerialNumber":"40200020" }
-{ "SerialNumber":"40210007" }
-{ "SerialNumber":"40240019" }
-{ "SerialNumber":"40240020" }
-{ "SerialNumber":"40240023" }
-{ "SerialNumber":"40310006" }
-{ "SerialNumber":"40310007" }
-{ "SerialNumber":"40310013" }
-{ "SerialNumber":"40310017" }
-{ "SerialNumber":"40330018" }
-{ "SerialNumber":"40340018" }
-{ "SerialNumber":"40400003" }
-{ "SerialNumber":"40400005" }
-{ "SerialNumber":"40400007" }
-{ "SerialNumber":"40400008" }
-{ "SerialNumber":"40400020" }
-{ "SerialNumber":"404500"07" }
+{ "House":{
+    "SerialNumber":"30390021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30390030",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30390047",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30400019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30410022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30430006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30460011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30460026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30480002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30490003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30500002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30500011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30530008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30530009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30540022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30550026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30570026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30660005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30700026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30710009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30770020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"30770035",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40010001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40020005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40060001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40081000",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40140012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40160001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40200004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40200017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40200019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40200020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40210007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40240019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40240020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40240023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40310006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40310007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40310013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40310017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40330018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40340018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40400003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40400005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40400007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40400008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40400020",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"404500"07",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"40450014" }
-{ "SerialNumber":"40450016" }
-{ "SerialNumber":"40450017" }
-{ "SerialNumber":"40460016" }
-{ "SerialNumber":"40470010" }
-{ "SerialNumber":"40480001" }
-{ "SerialNumber":"40490023" }
-{ "SerialNumber":"40490024" }
-{ "SerialNumber":"40530016" }
-{ "SerialNumber":"40530023" }
-{ "SerialNumber":"40540001" }
-{ "SerialNumber":"40620012" }
-{ "SerialNumber":"40650008" }
-{ "SerialNumber":"40650016" }
-{ "SerialNumber":"40660015" }
-{ "SerialNumber":"40660016" }
-{ "SerialNumber":"40660021" }
-{ "SerialNumber":"40680016" }
-{ "SerialNumber":"40680022" }
-{ "SerialNumber":"40680023" }
-{ "SerialNumber":"40700010" }
-{ "SerialNumber":"40700014" }
-{ "SerialNumber":"40700015" }
-{ "SerialNumber":"40700017" }
-{ "SerialNumber":"40710005" }
-{ "SerialNumber":"40750009" }
-{ "SerialNumber":"40750011" }
-{ "SerialNumber":"40750023" }
-{ "SerialNumber":"40750024" }
-{ "SerialNumber":"40780001" }
-{ "SerialNumber":"40860007" }
-{ "SerialNumber":"40870005" }
-{ "SerialNumber":"40890010" }
-{ "SerialNumber":"40900010" }
-{ "SerialNumber":"40920018" }
-{ "SerialNumber":"40930011" }
-{ "SerialNumber":"40960013" }
-{ "SerialNumber":"40960019" }
-{ "SerialNumber":"41000025" }
-{ "SerialNumber":"41010024" }
-{ "SerialNumber":"41020008" }
-{ "SerialNumber":"41020017" }
-{ "SerialNumber":"41020019" }
-{ "SerialNumber":"41020034" }
-{ "SerialNumber":"41040031" }
-{ "SerialNumber":"41050013" }
-{ "SerialNumber":"41080026" }
-{ "SerialNumber":"410900"11" }
+{ "House":{
+    "SerialNumber":"40450014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40450016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40450017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40460016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40470010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40480001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40490023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40490024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40530016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40530023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40540001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40620012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40650008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40650016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40660015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40660016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40660021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40680016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40680022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40680023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40700010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40700014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40700015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40700017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40710005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40750009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40750011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40750023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40750024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40780001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40860007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40870005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40890010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40900010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40920018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40930011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40960013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"40960019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41000025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41010024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41020008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41020017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41020019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41020034",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41040031",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41050013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41080026",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"410900"11",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"41090029" }
-{ "SerialNumber":"41110002" }
-{ "SerialNumber":"41110003" }
-{ "SerialNumber":"41120005" }
-{ "SerialNumber":"41140020" }
-{ "SerialNumber":"50020019" }
-{ "SerialNumber":"50050018" }
-{ "SerialNumber":"50050021" }
-{ "SerialNumber":"50090003" }
-{ "SerialNumber":"50090004" }
-{ "SerialNumber":"50110004" }
-{ "SerialNumber":"50120028" }
-{ "SerialNumber":"50130014" }
-{ "SerialNumber":"50140010" }
-{ "SerialNumber":"50160024" }
-{ "SerialNumber":"50170004" }
-{ "SerialNumber":"50270004" }
-{ "SerialNumber":"50280006" }
-{ "SerialNumber":"50280009" }
-{ "SerialNumber":"50280019" }
-{ "SerialNumber":"50300028" }
-{ "SerialNumber":"50310004" }
-{ "SerialNumber":"50320007" }
-{ "SerialNumber":"50330005" }
-{ "SerialNumber":"50340005" }
-{ "SerialNumber":"50370009" }
-{ "SerialNumber":"50370012" }
-{ "SerialNumber":"50400006" }
-{ "SerialNumber":"50440016" }
-{ "SerialNumber":"50470005" }
-{ "SerialNumber":"50490009" }
-{ "SerialNumber":"50490013" }
-{ "SerialNumber":"50510028" }
-{ "SerialNumber":"50530003" }
-{ "SerialNumber":"50550011" }
-{ "SerialNumber":"50560009" }
-{ "SerialNumber":"50570009" }
-{ "SerialNumber":"50610002" }
-{ "SerialNumber":"50630021" }
-{ "SerialNumber":"50640007" }
-{ "SerialNumber":"50640018" }
-{ "SerialNumber":"50670006" }
-{ "SerialNumber":"50690007" }
-{ "SerialNumber":"50690014" }
-{ "SerialNumber":"50710007" }
-{ "SerialNumber":"50710018" }
-{ "SerialNumber":"50750001" }
-{ "SerialNumber":"507500"03" }
+{ "House":{
+    "SerialNumber":"41090029",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41110002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41110003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41120005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"41140020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50020019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50050018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50050021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50090003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50090004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50110004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50120028",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50130014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50140010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50160024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50170004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50270004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50280006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50280009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50280019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50300028",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50310004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50320007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50330005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50340005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50370009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50370012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50400006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50440016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50470005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50490009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50490013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50510028",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50530003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50550011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50560009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50570009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50610002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50630021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50640007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50640018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50670006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50690007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50690014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50710007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50710018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50750001",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"507500"03",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"50770003" }
-{ "SerialNumber":"50830017" }
-{ "SerialNumber":"60120017" }
-{ "SerialNumber":"60120030" }
-{ "SerialNumber":"60120040" }
-{ "SerialNumber":"60130024" }
-{ "SerialNumber":"60140003" }
-{ "SerialNumber":"60140009" }
-{ "SerialNumber":"60150008" }
-{ "SerialNumber":"60180019" }
-{ "SerialNumber":"60220023" }
-{ "SerialNumber":"60230007" }
-{ "SerialNumber":"60240024" }
-{ "SerialNumber":"60310011" }
-{ "SerialNumber":"60340009" }
-{ "SerialNumber":"60350026" }
-{ "SerialNumber":"60350027" }
-{ "SerialNumber":"60370005" }
-{ "SerialNumber":"60380012" }
-{ "SerialNumber":"60410009" }
-{ "SerialNumber":"60420018" }
-{ "SerialNumber":"60440001" }
-{ "SerialNumber":"60460012" }
-{ "SerialNumber":"60490014" }
-{ "SerialNumber":"60510008" }
-{ "SerialNumber":"60520008" }
-{ "SerialNumber":"60520015" }
-{ "SerialNumber":"60560012" }
-{ "SerialNumber":"60560013" }
-{ "SerialNumber":"60570011" }
-{ "SerialNumber":"60570014" }
-{ "SerialNumber":"60580002" }
-{ "SerialNumber":"60580014" }
-{ "SerialNumber":"60590019" }
-{ "SerialNumber":"60590020" }
-{ "SerialNumber":"60600016" }
-{ "SerialNumber":"60600017" }
-{ "SerialNumber":"60610007" }
-{ "SerialNumber":"60630018" }
-{ "SerialNumber":"60640011" }
-{ "SerialNumber":"70010005" }
-{ "SerialNumber":"70010022" }
-{ "SerialNumber":"70010025" }
-{ "SerialNumber":"70010033" }
-{ "SerialNumber":"70070027" }
-{ "SerialNumber":"70070029" }
-{ "SerialNumber":"70080012" }
-{ "SerialNumber":"701000"22" }
+{ "House":{
+    "SerialNumber":"50770003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"50830017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60120017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60120030",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60120040",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60130024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60140003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60140009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60150008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60180019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60220023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60230007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60240024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60310011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60340009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60350026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60350027",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60370005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60380012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60410009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60420018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60440001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60460012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60490014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60510008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60520008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60520015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60560012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60560013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60570011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60570014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60580002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60580014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60590019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60590020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60600016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60600017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60610007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60630018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"60640011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70010005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70010022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70010025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70010033",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70070027",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70070029",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70080012",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"701000"22",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"70140026" }
-{ "SerialNumber":"70150014" }
-{ "SerialNumber":"70150020" }
-{ "SerialNumber":"70180008" }
-{ "SerialNumber":"70210001" }
-{ "SerialNumber":"70230006" }
-{ "SerialNumber":"70230016" }
-{ "SerialNumber":"70260013" }
-{ "SerialNumber":"70280009" }
-{ "SerialNumber":"70300014" }
-{ "SerialNumber":"70340015" }
-{ "SerialNumber":"70400021" }
-{ "SerialNumber":"70420012" }
-{ "SerialNumber":"70430024" }
-{ "SerialNumber":"70440005" }
-{ "SerialNumber":"70490001" }
-{ "SerialNumber":"70490022" }
-{ "SerialNumber":"70500015" }
-{ "SerialNumber":"70500020" }
-{ "SerialNumber":"70500021" }
-{ "SerialNumber":"70520002" }
-{ "SerialNumber":"70520009" }
-{ "SerialNumber":"70520026" }
-{ "SerialNumber":"70520030" }
-{ "SerialNumber":"70550003" }
-{ "SerialNumber":"70550016" }
-{ "SerialNumber":"70560015" }
-{ "SerialNumber":"70570002" }
-{ "SerialNumber":"70630017" }
-{ "SerialNumber":"70680008" }
-{ "SerialNumber":"70680009" }
-{ "SerialNumber":"70680012" }
-{ "SerialNumber":"70690015" }
-{ "SerialNumber":"70690023" }
-{ "SerialNumber":"70710001" }
-{ "SerialNumber":"70730021" }
-{ "SerialNumber":"70760018" }
-{ "SerialNumber":"70760025" }
-{ "SerialNumber":"70770017" }
-{ "SerialNumber":"70780018" }
-{ "SerialNumber":"70780020" }
-{ "SerialNumber":"70820001" }
-{ "SerialNumber":"70840005" }
-{ "SerialNumber":"70850024" }
-{ "SerialNumber":"70900012" }
-{ "SerialNumber":"70970010" }
-{ "SerialNumber":"71010014" }
-{ "SerialNumber":"710800"09" }
+{ "House":{
+    "SerialNumber":"70140026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70150014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70150020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70180008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70210001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70230006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70230016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70260013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70280009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70300014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70340015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70400021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70420012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70430024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70440005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70490001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70490022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70500015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70500020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70500021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70520002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70520009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70520026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70520030",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70550003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70550016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70560015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70570002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70630017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70680008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70680009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70680012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70690015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70690023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70710001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70730021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70760018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70760025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70770017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70780018",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70780020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70820001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70840005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70850024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70900012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"70970010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71010014",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"710800"09",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"71090002" }
-{ "SerialNumber":"71100021" }
-{ "SerialNumber":"71110017" }
-{ "SerialNumber":"71130017" }
-{ "SerialNumber":"71150005" }
-{ "SerialNumber":"71190007" }
-{ "SerialNumber":"71210011" }
-{ "SerialNumber":"71250003" }
-{ "SerialNumber":"71250011" }
-{ "SerialNumber":"71260009" }
-{ "SerialNumber":"71300023" }
-{ "SerialNumber":"71380027" }
-{ "SerialNumber":"71380033" }
-{ "SerialNumber":"71400004" }
-{ "SerialNumber":"71400009" }
-{ "SerialNumber":"71460010" }
-{ "SerialNumber":"71490015" }
-{ "SerialNumber":"71490026" }
-{ "SerialNumber":"80010004" }
-{ "SerialNumber":"80040004" }
-{ "SerialNumber":"80050023" }
-{ "SerialNumber":"80050042" }
-{ "SerialNumber":"80080004" }
-{ "SerialNumber":"80100019" }
-{ "SerialNumber":"80140004" }
-{ "SerialNumber":"80150008" }
-{ "SerialNumber":"80150020" }
-{ "SerialNumber":"80190007" }
-{ "SerialNumber":"80200001" }
-{ "SerialNumber":"80200007" }
-{ "SerialNumber":"80200008" }
-{ "SerialNumber":"80210003" }
-{ "SerialNumber":"80210004" }
-{ "SerialNumber":"80210021" }
-{ "SerialNumber":"80220012" }
-{ "SerialNumber":"80230016" }
-{ "SerialNumber":"80280003" }
-{ "SerialNumber":"80300004" }
-{ "SerialNumber":"80320001" }
-{ "SerialNumber":"80360001" }
-{ "SerialNumber":"80360016" }
-{ "SerialNumber":"80380003" }
-{ "SerialNumber":"80390013" }
-{ "SerialNumber":"80410003" }
-{ "SerialNumber":"80450024" }
-{ "SerialNumber":"80460002" }
-{ "SerialNumber":"80460003" }
-{ "SerialNumber":"805200"01" }
+{ "House":{
+    "SerialNumber":"71090002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71100021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71110017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71130017",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71150005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71190007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71210011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71250003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71250011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71260009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71300023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71380027",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71380033",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71400004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71400009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71460010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71490015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"71490026",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80010004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80040004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80050023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80050042",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80080004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80100019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80140004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80150008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80150020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80190007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80200001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80200007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80200008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80210003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80210004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80210021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80220012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80230016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80280003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80300004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80320001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80360001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80360016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80380003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80390013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80410003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80450024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80460002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80460003",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"805200"01",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"80570012" }
-{ "SerialNumber":"80570016" }
-{ "SerialNumber":"80570020" }
-{ "SerialNumber":"80640004" }
-{ "SerialNumber":"80690005" }
-{ "SerialNumber":"80700023" }
-{ "SerialNumber":"80720016" }
-{ "SerialNumber":"80800009" }
-{ "SerialNumber":"80850007" }
-{ "SerialNumber":"80850043" }
-{ "SerialNumber":"80850045" }
-{ "SerialNumber":"80860010" }
-{ "SerialNumber":"80870009" }
-{ "SerialNumber":"80870012" }
-{ "SerialNumber":"80870025" }
-{ "SerialNumber":"80910006" }
-{ "SerialNumber":"80920003" }
-{ "SerialNumber":"80940004" }
-{ "SerialNumber":"80990003" }
-{ "SerialNumber":"81000010" }
-{ "SerialNumber":"81060015" }
-{ "SerialNumber":"81090007" }
-{ "SerialNumber":"81180003" }
-{ "SerialNumber":"81180021" }
-{ "SerialNumber":"81260010" }
-{ "SerialNumber":"81310009" }
-{ "SerialNumber":"81320015" }
-{ "SerialNumber":"81320020" }
-{ "SerialNumber":"81330007" }
-{ "SerialNumber":"81340005" }
-{ "SerialNumber":"81380008" }
-{ "SerialNumber":"81380015" }
-{ "SerialNumber":"81490014" }
-{ "SerialNumber":"81510024" }
-{ "SerialNumber":"81520020" }
-{ "SerialNumber":"81540003" }
-{ "SerialNumber":"81540010" }
-{ "SerialNumber":"81600001" }
-{ "SerialNumber":"81640040" }
-{ "SerialNumber":"81650008" }
-{ "SerialNumber":"90020007" }
-{ "SerialNumber":"90020008" }
-{ "SerialNumber":"90060001" }
-{ "SerialNumber":"90120009" }
-{ "SerialNumber":"90130022" }
-{ "SerialNumber":"90150005" }
-{ "SerialNumber":"90170015" }
-{ "SerialNumber":"901700"20" }
+{ "House":{
+    "SerialNumber":"80570012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80570016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80570020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80640004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80690005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80700023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80720016",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80800009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80850007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80850043",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80850045",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80860010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80870009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80870012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80870025",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80910006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80920003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80940004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"80990003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81000010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81060015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81090007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81180003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81180021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81260010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81310009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81320015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81320020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81330007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81340005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81380008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81380015",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81490014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81510024",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81520020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81540003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81540010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81600001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81640040",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"81650008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90020007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90020008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90060001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90120009",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90130022",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90150005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90170015",
+    "Name":"",
+    "Address":""}
+},
+{ "SerialNumber"House":{
+    ":"901700"20",
+    "Name":"",
+        "Address":"",
+    }}
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
-{ "SerialNumber":"90250001" }
-{ "SerialNumber":"90330003" }
-{ "SerialNumber":"90330019" }
-{ "SerialNumber":"90340008" }
-{ "SerialNumber":"90350007" }
-{ "SerialNumber":"90420010" }
-{ "SerialNumber":"90530002" }
-{ "SerialNumber":"90540020" }
-{ "SerialNumber":"90590003" }
-{ "SerialNumber":"90620012" }
-{ "SerialNumber":"90620036" }
-{ "SerialNumber":"90640011" }
-{ "SerialNumber":"90650001" }
-{ "SerialNumber":"90680011" }
-{ "SerialNumber":"90680028" }
-{ "SerialNumber":"90700014" }
-{ "SerialNumber":"90710011" }
-{ "SerialNumber":"90730002" }
-{ "SerialNumber":"90730007" }
-{ "SerialNumber":"90730013" }
-{ "SerialNumber":"90760004" }
-{ "SerialNumber":"90790012" }
-{ "SerialNumber":"90800001" }
-{ "SerialNumber":"90810004" }
-{ "SerialNumber":"90820020" }
-{ "SerialNumber":"90860012" }
-{ "SerialNumber":"90890006" }
-{ "SerialNumber":"90890014" }
-{ "SerialNumber":"90910011" }
-{ "SerialNumber":"90910013" }
-{ "SerialNumber":"90910020" }
-{ "SerialNumber":"90910021" }
-{ "SerialNumber":"90920006" }
-{ "SerialNumber":"90940012" }
-{ "SerialNumber":"90960004" }
-{ "SerialNumber":"90970004" }
-{ "SerialNumber":"90990006" }
-{ "SerialNumber":"91000013" }
-{ "SerialNumber":"91020003" }
-{ "SerialNumber":"91030014" }
-{ "SerialNumber":"91050011" }
-{ "SerialNumber":"91100011" }
-{ "SerialNumber":"91120023" }
-{ "SerialNumber":"91160002" }
-{ "SerialNumber":"91190005" }
-{ "SerialNumber":"91200004" }
-{ "SerialNumber":"91270004" }
+{ "House":{
+    "SerialNumber":"90250001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90330003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90330019",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90340008",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90350007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90420010",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90530002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90540020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90590003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90620012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90620036",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90640011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90650001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90680011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90680028",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90700014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90710011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90730002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90730007",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90730013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90760004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90790012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90800001",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90810004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90820020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90860012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90890006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90890014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90910011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90910013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90910020",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90910021",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90920006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90940012",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90960004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90970004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"90990006",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91000013",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91020003",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91030014",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91050011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91100011",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91120023",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91160002",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91190005",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91200004",
+    "Name":"",
+    "Address":""}
+},
+{ "House":{
+    "SerialNumber":"91270004",
+    "Name":"",
+    "Address":""}
+},
 { S"erialNumber	":1"000300"01" }
 { Seri":a"lNumbe"r	" }
 { Seri":a"lNumber	" }
